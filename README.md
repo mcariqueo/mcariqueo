@@ -4,4 +4,5 @@ As a pharmacist with a Master’s degree in Pharmacology and over a decade of pr
 
 My professional background reflects a profound commitment to health research, with a particular emphasis on collaborative and integrative approaches. I am dedicated to advancing the field of pharmacology, leveraging my extensive experience to foster meaningful partnerships and drive innovative solutions.
 
-- 🌱 I’m currently learning Data Analysis in IT Academy
+- 🌱 I’m currently learning Data Analysis at IT Academy to further enhance my skills.
+
