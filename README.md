@@ -1,4 +1,5 @@
 # Marcial Cariqueo Arriagada
+Clinical Pharmacist - MSc Pharmacology - Data Analyst
 
 👋 Hello! I'm Marcial, a passionate pharmacist with a Master’s degree in Pharmacology and over a decade of professional experience.
 
