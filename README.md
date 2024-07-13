@@ -1,9 +1,12 @@
-# Marcial Cariqueo Arriagada
+## Marcial Cariqueo Arriagada
+
 Clinical Pharmacist - MSc Pharmacology - Data Analyst
+
+---
 
 👋 Hello! I'm Marcial, a passionate pharmacist with a Master’s degree in Pharmacology and over a decade of professional experience.
 
-## About Me
+### About Me
 
 My journey in the field has taken me through diverse settings:
 
@@ -12,7 +15,7 @@ My journey in the field has taken me through diverse settings:
 - 🔬 **Research**
 - 🎓 **Teaching**
 
-## What I Do
+### What I Do
 
 🔗 My expertise extends to:
 
@@ -20,11 +23,11 @@ My journey in the field has taken me through diverse settings:
 - Leading multidisciplinary teams
 - Engaging with scientific societies
 
-## My Commitment
+### My Commitment
 
 💡 I am profoundly committed to health research, focusing on collaborative and integrative approaches.
 
-## Current Endeavors
+### Current Endeavors
 
 🌱 I’m currently enhancing my skills by learning **Data Analysis** at IT Academy. This will help me:
 
