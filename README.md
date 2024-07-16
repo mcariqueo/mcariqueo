@@ -1,6 +1,7 @@
 ## Marcial Cariqueo Arriagada
-
-Clinical Pharmacist - MSc Pharmacology - Data Analyst
+Data Analyst
+Clinical Pharmacist 
+MSc Pharmacology 
 
 ---
 
