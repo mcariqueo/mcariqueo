@@ -28,14 +28,6 @@ My journey in the field has taken me through diverse settings:
 
 💡 I am profoundly committed to health research, focusing on collaborative and integrative approaches.
 
-### Current Endeavors
-
-🌱 I’m currently enhancing my skills by learning **Data Analysis** at IT Academy. This will help me:
-
-- Enhance my analytical capabilities
-- Drive innovative solutions in pharmacology
-- Foster meaningful partnerships
-
 ---
 
 <p>
