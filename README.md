@@ -18,10 +18,7 @@ His responsibilities involve collaborating with a **multidisciplinary team** to 
 - **Managing study documentation and data collection**  
 
 ---
-
 *"Driving innovation and excellence in healthcare research."*
-
-
 
 
 <details>
