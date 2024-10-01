@@ -1,11 +1,18 @@
+
 ## Marcial Cariqueo Arriagada
 Data Analyst | Clinical Pharmacist | MSc Pharmacology
 
----
+<details>
+   <summary>
+      <strong>
+         About Me 🚀
+      </strong>
+   </summary>
 
-### About Me
+  With over a decade of professional experience as a pharmacist and a Master's degree in Pharmacology, I have built a robust career spanning multiple domains including hospital pharmacy, critical care, data science, research, and teaching. My career is marked by a commitment to improving healthcare through evidence-based practices, innovative research, and collaborative efforts. I have a proven track record in coordinating clinical studies, leading multidisciplinary teams, and contributing to scientific societies, all of which underscore my dedication to advancing the field of health research.
 
-With over a decade of professional experience as a pharmacist and a Master's degree in Pharmacology, I have built a robust career spanning multiple domains including hospital pharmacy, critical care, data science, research, and teaching. My career is marked by a commitment to improving healthcare through evidence-based practices, innovative research, and collaborative efforts. I have a proven track record in coordinating clinical studies, leading multidisciplinary teams, and contributing to scientific societies, all of which underscore my dedication to advancing the field of health research.
+</details>
+
 
 ### Areas of Expertise
 
@@ -45,6 +52,4 @@ With over a decade of professional experience as a pharmacist and a Master's deg
 
 ---
 
-<p>
-Let's connect and make a difference together! 🚀
-</p>
+
