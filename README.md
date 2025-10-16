@@ -3,29 +3,6 @@
 
 Clinical Pharmacist and Master in Pharmacology. Marcial has developed predictive models to enhance healthcare outcomes and contributed to scientific societies. His work is characterized by a commitment to **evidence-based practices**, **collaborative research**, and improving **patient care through innovative approaches**.
 
-Currently, he works as a **Research Support Officer** in the **Translational Research Laboratory for Microbiology Diagnosis and Pathogen Host Response in Respiratory Infections**. He participates in the:
-
-- *Surveillance Study of Respiratory Pathogens in Adults Hospitalized for SARI Across Europe (idDRIVE)*.  
-
-His responsibilities involve collaborating with a **multidisciplinary team** to ensure effective communication and coordination in research processes. Key tasks include:
-
-- **Recruiting study participants**  
-- **Obtaining informed consent**  
-- **Managing study documentation and data collection**  
-
-<details>
-*"Driving innovation and excellence in healthcare research."*
-
-
-<details>
-   <summary>
-      <strong>
-         About Me 🚀
-      </strong>
-   </summary>
-
-  With over a decade of professional experience as a pharmacist and a Master's degree in Pharmacology, I have built a robust career spanning multiple domains including hospital pharmacy, critical care, data science, research, and teaching. My career is marked by a commitment to improving healthcare through evidence-based practices, innovative research, and collaborative efforts. I have a proven track record in coordinating clinical studies, leading multidisciplinary teams, and contributing to scientific societies, all of which underscore my dedication to advancing the field of health research.
-
 </details>
 
 
