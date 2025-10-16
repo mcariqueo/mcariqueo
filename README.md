@@ -1,6 +1,4 @@
 
-# Marcial Cariqueo Arriagada
-
 **Data Analyst | Clinical Pharmacist | MSc Pharmacology**  
 
 Clinical Pharmacist and Master in Pharmacology. Marcial has developed predictive models to enhance healthcare outcomes and contributed to scientific societies. His work is characterized by a commitment to **evidence-based practices**, **collaborative research**, and improving **patient care through innovative approaches**.
