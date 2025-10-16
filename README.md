@@ -15,7 +15,7 @@ His responsibilities involve collaborating with a **multidisciplinary team** to 
 - **Obtaining informed consent**  
 - **Managing study documentation and data collection**  
 
----
+<details>
 *"Driving innovation and excellence in healthcare research."*
 
 
