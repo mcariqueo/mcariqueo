@@ -34,14 +34,5 @@ Clinical Pharmacist and Master in Pharmacology. Marcial has developed predictive
 - **Project Management**: Skilled in managing multiple projects simultaneously, ensuring timely and successful completion.
 - **Communication and Collaboration**: Excellent interpersonal skills, adept at building relationships with stakeholders, colleagues, and students.
 
-### What I Do
-
-🔗 My expertise extends to:
-
-- Coordinating clinical studies to advance medical knowledge and improve patient care.
-- Leading multidisciplinary teams to drive innovative solutions in healthcare.
-- Engaging with scientific societies to stay at the forefront of research and practice.
-
----
 
 
