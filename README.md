@@ -45,6 +45,7 @@ My current work combines population pharmacokinetics, PK/PD modeling, therapeuti
 ## Publications & Recognition
 
 - Publications in antimicrobial therapy, critical care, sepsis, pharmacotherapy complexity, and intensive care practices.
+- Automatically generated publication list: [`source-materials/publications/publications.md`](./source-materials/publications/publications.md)
 - Research awards for best poster and oral presentation.
 - Experience across hospital pharmacy, ICU pharmacotherapy, clinical research, and translational medicine.
 
@@ -53,3 +54,10 @@ My current work combines population pharmacokinetics, PK/PD modeling, therapeuti
 - LinkedIn: [marcialcariqueo](https://www.linkedin.com/in/marcialcariqueo)
 - Email: [marcial.cariqueo@gmail.com](mailto:marcial.cariqueo@gmail.com)
 - CV: [Marcial_Cariqueo_CV_2026.pdf](./Marcial_Cariqueo_CV_2026.pdf)
+
+## Portfolio Source Materials
+
+- Public/shareable inputs for improving this profile: [`source-materials/`](./source-materials/)
+- Private local-only inputs ignored by Git: `private-materials/`
+- Living profile brief and improvement ideas: [`PROFILE_BRIEF.md`](./PROFILE_BRIEF.md)
+- Profile change history: [`PROFILE_CHANGELOG.md`](./PROFILE_CHANGELOG.md)
