@@ -2,6 +2,8 @@
 
 **Clinical Pharmacist | PhD Candidate in Translational Medicine | PK/PD & Pharmacometrics | Critical Care Research**
 
+[View portfolio page](./index.html) | [Download CV](./Marcial_Cariqueo_CV_2026.pdf) | [LinkedIn](https://www.linkedin.com/in/marcialcariqueo)
+
 I work at the intersection of clinical pharmacology, critical care, and data-driven translational research, with a focus on optimizing anti-infective therapy in severe respiratory infections.
 
 My current work combines population pharmacokinetics, PK/PD modeling, therapeutic drug monitoring, real-world clinical data, and multicenter clinical research to support evidence-based decisions in complex patients.
