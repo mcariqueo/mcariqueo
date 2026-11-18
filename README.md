@@ -42,6 +42,23 @@ My current work combines population pharmacokinetics, PK/PD modeling, therapeuti
 - Clinical trial coordination and clinical data management.
 - Translational research from preclinical PK/PD models to patient-level evidence.
 
+## Selected Projects
+
+- **Population PK/PD modeling of anti-infectives** — Developing population pharmacokinetic/pharmacodynamic models to guide model-informed dosing of antimicrobials in severe respiratory infections. *Tools: NONMEM, PsN, R.*
+- **Real-world pneumonia & respiratory infection cohorts** — Analysis of multicenter real-world data to characterize outcome variability and treatment effectiveness in community-acquired and aspiration pneumonia. *Tools: R, SQL.*
+- **Therapeutic drug monitoring & anti-infective optimization** — Model-informed TDM workflows to individualize anti-infective therapy in critically ill and complex patients.
+- **Clinical trial coordination & data management** — Study operations, patient screening, protocol implementation, and REDCap-based data capture and quality control for multicenter clinical research.
+
+## Selected Publications
+
+- **Role of Vaccination in the Prevention of ECOPD** — *Seminars in Respiratory and Critical Care Medicine* (2026). [DOI](https://doi.org/10.1055/a-2837-8778)
+- **Macrolides for community-acquired pneumonia: are there differences?** — *Expert Review of Anti-infective Therapy* (2026). [DOI](https://doi.org/10.1080/14787210.2026.2656308)
+- **Factors driving outcome variability in aspiration and community-acquired pneumonia: a meta-analysis** — *European Respiratory Review* (2025). [DOI](https://doi.org/10.1183/16000617.0037-2025)
+- **Tigecycline population pharmacokinetics in critically ill patients with decompensated cirrhosis and severe infections** — *Journal of Antimicrobial Chemotherapy* (2022). [DOI](https://doi.org/10.1093/jac/dkac036)
+- **An international survey on aminoglycoside practices in critically ill patients: the AMINO III study** — *Annals of Intensive Care* (2021). [DOI](https://doi.org/10.1186/s13613-021-00834-4)
+
+Full, automatically generated publication list: [`source-materials/publications/publications.md`](./source-materials/publications/publications.md)
+
 ## Publications & Recognition
 
 - Publications in antimicrobial therapy, critical care, sepsis, pharmacotherapy complexity, and intensive care practices.
